@@ -1,8 +1,7 @@
 # Job Hunter
 
 Collects Werkstudent, internship and mini-job postings, scores them against your
-field (SDR, DSP, RF, drones, Python, C++ ...), flags German-language requirements,
-and shows everything on a dashboard. Optional Telegram alerts for new matches.
+field and requirements, and shows everything on a dashboard. Optional Telegram alerts for new matches.
 
 ## 1. Run it on your Mac in VS Code (5 min)
 
