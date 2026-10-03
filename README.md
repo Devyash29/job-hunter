@@ -45,7 +45,7 @@ Locally: `TELEGRAM_TOKEN=... TELEGRAM_CHAT_ID=... python hunter.py`
 - **Employer career feeds**: add companies to `companies.yaml` (Greenhouse, Lever, Personio or
   SmartRecruiters). The file explains how to spot which one a company uses.
 - **Search everywhere** tab on the dashboard: one-click pre-filled searches for LinkedIn, Indeed,
-  StepStone, Xing, Google Jobs, student/research sites (jobvector, Absolventa, EURAXESS, Uni Kassel HiWi ...)
+  StepStone, Xing, Google Jobs, student/research sites (jobvector, Absolventa, EURAXESS, Uni HiWi ...)
   and employers (KNDS, Rheinmetall, Hensoldt ...). Change the list in `docs/index.html`.
 
 ## Notes
