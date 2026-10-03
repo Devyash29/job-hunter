@@ -9,6 +9,7 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 import yaml
@@ -26,46 +27,80 @@ def log(msg):
 
 
 # ---------- sources ----------
+def _ba_item(it, hint):
+    """Parse one Bundesagentur posting (works with the current v6 and the old v4 field names)."""
+    if not isinstance(it, dict):
+        return None
+    ref = it.get("referenznummer") or it.get("refnr")
+    if not isinstance(ref, str) or not ref:
+        return None
+    adr = {}
+    locs = it.get("stellenlokationen")
+    if isinstance(locs, list) and locs and isinstance(locs[0], dict) and isinstance(locs[0].get("adresse"), dict):
+        adr = locs[0]["adresse"]
+    elif isinstance(it.get("arbeitsort"), dict):
+        adr = it["arbeitsort"]
+    place = ", ".join(str(x) for x in [adr.get("plz"), adr.get("ort")] if x)
+    period = it.get("veroeffentlichungszeitraum")
+    posted = (period.get("von") if isinstance(period, dict) else None) or it.get("aktuelleVeroeffentlichungsdatum") or ""
+    title = it.get("stellenangebotsTitel") or it.get("hauptberuf") or it.get("titel") or it.get("beruf") or ""
+    company = it.get("firma") or it.get("arbeitgeber") or ""
+    return {
+        "id": f"ba-{ref}",
+        "title": str(title),
+        "company": str(company),
+        "location": place or "Deutschland",
+        "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/" + quote(ref, safe=""),
+        "source": "Bundesagentur",
+        "posted": str(posted)[:10],
+        "kind_hint": hint,
+        "text": str(it.get("hauptberuf") or it.get("beruf") or ""),
+    }
+
+
 def fetch_arbeitsagentur():
-    """Official job board of the German Federal Employment Agency."""
-    url = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
+    """Official job board of the German Federal Employment Agency (API v6; v4 was retired)."""
+    url = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs"
     headers = {**HEADERS, "X-API-Key": "jobboerse-jobsuche"}
+    cutoff = (NOW - timedelta(days=CFG["max_age_days"])).strftime("%Y-%m-%d")
     jobs = []
-    for s in CFG["searches"]:
-        params = {
-            "wo": CFG["location"],
-            "umkreis": CFG["radius_km"],
-            "size": 50,
-            "page": 1,
-            "veroeffentlichtseit": CFG["max_age_days"],
-        }
-        for key_cfg, key_api in (("what", "was"), ("arbeitszeit", "arbeitszeit"), ("angebotsart", "angebotsart")):
-            if s.get(key_cfg):
-                params[key_api] = s[key_cfg]
-        try:
-            r = requests.get(url, params=params, headers=headers, timeout=30)
-            r.raise_for_status()
-            items = r.json().get("stellenangebote", [])
-        except Exception as e:  # keep going if one search fails
-            log(f"[BA] search '{s.get('what')}' failed: {e}")
+    for s_ in CFG["searches"]:
+        base = {"wo": CFG["location"], "umkreis": CFG["radius_km"], "size": 50, "page": 1}
+        if s_.get("what"):
+            base["was"] = s_["what"]
+        filters = {k: s_[k] for k in ("arbeitszeit", "angebotsart") if s_.get(k)}
+        # Try the full query first; if the API rejects a parameter (HTTP 400) fall back step by step.
+        attempts = [
+            ({**base, **filters, "veroeffentlichtseit": CFG["max_age_days"]}, True),
+            ({**base, **filters}, True),
+            (base, False),
+        ]
+        data, hint_ok = None, True
+        for params, ok in attempts:
+            try:
+                r = requests.get(url, params=params, headers=headers, timeout=30)
+                if r.status_code == 400:
+                    continue
+                r.raise_for_status()
+                data, hint_ok = r.json(), ok
+                break
+            except Exception as e:
+                log(f"[BA] search '{s_.get('what')}' failed: {e}")
+                break
+        if not isinstance(data, dict):
             continue
-        log(f"[BA] '{s.get('what') or '(all)'}' -> {len(items)}")
+        items = data.get("ergebnisliste") or data.get("stellenangebote") or []
+        if not isinstance(items, list):
+            items = []
+        log(f"[BA] '{s_.get('what') or '(all)'}' -> {len(items)}")
         for it in items:
-            refnr = it.get("refnr")
-            if not refnr:
+            try:
+                job = _ba_item(it, s_["kind"] if hint_ok else "")
+            except Exception as e:
+                log(f"[BA] skipped a malformed row: {e}")
                 continue
-            ort = it.get("arbeitsort") or {}
-            jobs.append({
-                "id": f"ba-{refnr}",
-                "title": it.get("titel") or it.get("beruf") or "",
-                "company": it.get("arbeitgeber") or "",
-                "location": ", ".join(x for x in [ort.get("plz"), ort.get("ort")] if x),
-                "url": f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{refnr}",
-                "source": "Bundesagentur",
-                "posted": it.get("aktuelleVeroeffentlichungsdatum") or "",
-                "kind_hint": s["kind"],
-                "text": it.get("beruf") or "",
-            })
+            if job and (not job["posted"] or job["posted"] >= cutoff):
+                jobs.append(job)
         time.sleep(0.6)
     return jobs
 
