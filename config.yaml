@@ -1,7 +1,7 @@
 # ---- Job Hunter settings: edit freely ----
 location: Kassel
-radius_km: 30          # search radius around the location
-max_age_days: 30       # ignore / drop postings older than this
+radius_km: 60          # search radius around the location
+max_age_days: 30       # ignore/drop postings older than this
 arbeitnow_pages: 3     # pages to read from the Arbeitnow API (English-friendly jobs)
 
 # Telegram alerts: send a message for new jobs that match
@@ -60,6 +60,12 @@ searches:
   - {what: "Reinigung", kind: minijob, arbeitszeit: mj}
   - {what: "Studentische Aushilfe", kind: minijob}
   - {what: "Studentenjob", kind: minijob}
+  - {what: "Werkstudent Hochfrequenz", kind: werkstudent}
+  - {what: "Werkstudent Nachrichtentechnik", kind: werkstudent}
+  - {what: "Werkstudent Software", kind: werkstudent}
+  - {what: "Werkstudent Informatik", kind: werkstudent}
+  - {what: "Praktikum Embedded", kind: internship, angebotsart: 34}
+  - {what: "Praktikum Software", kind: internship, angebotsart: 34}
 
 # Language heuristics (title words) and phrases that mean "German required"
 english_title_words: [engineer, working, student, intern, internship, developer, assistant, warehouse, associate, research, with, and, for, the, cook, cleaner, driver, delivery]
