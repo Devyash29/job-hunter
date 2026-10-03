@@ -1,4 +1,4 @@
-# Job Hunter (Kassel)
+# Job Hunter
 
 Collects Werkstudent, internship and mini-job postings, scores them against your
 field (SDR, DSP, RF, drones, Python, C++ ...), flags German-language requirements,
