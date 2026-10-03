@@ -1,0 +1,83 @@
+# ---- Job Hunter settings: edit freely ----
+location: Kassel
+radius_km: 30          # search radius around the location
+max_age_days: 30       # ignore / drop postings older than this
+arbeitnow_pages: 3     # pages to read from the Arbeitnow API (English-friendly jobs)
+
+# Telegram alerts: send a message for new jobs that match
+min_notify_score: 3                      # field-match score (0-10)
+notify_kinds: [werkstudent, internship]  # always notify for these kinds
+
+# Words that make a posting relevant to your field (weight = points)
+field_keywords:
+  signal processing: 3
+  signalverarbeitung: 3
+  dsp: 3
+  sdr: 3
+  software defined radio: 3
+  software-defined radio: 3
+  direction finding: 3
+  doa: 2
+  drone: 2
+  drohne: 2
+  counter-uas: 3
+  uas: 1
+  rf: 1
+  hochfrequenz: 2
+  radio: 1
+  funk: 1
+  antenna: 2
+  antenne: 2
+  kommunikationstechnik: 2
+  nachrichtentechnik: 2
+  communications: 1
+  embedded: 2
+  fpga: 2
+  matlab: 2
+  gnu radio: 3
+  python: 1
+  c++: 1
+  elektrotechnik: 1
+  electrical engineering: 1
+  radar: 3
+
+# Searches sent to the Bundesagentur Jobbörse (kind = label if nothing better is detected)
+# angebotsart 34 = Praktikum/Trainee | arbeitszeit mj = Minijob
+searches:
+  - {what: "Werkstudent Signalverarbeitung", kind: werkstudent}
+  - {what: "Werkstudent Elektrotechnik", kind: werkstudent}
+  - {what: "Werkstudent Embedded", kind: werkstudent}
+  - {what: "Werkstudent Python", kind: werkstudent}
+  - {what: "Working student engineer", kind: werkstudent}
+  - {what: "Praktikum Elektrotechnik", kind: internship, angebotsart: 34}
+  - {what: "Praktikum Hochfrequenztechnik", kind: internship, angebotsart: 34}
+  - {what: "Praktikum Signalverarbeitung", kind: internship, angebotsart: 34}
+  - {what: "Internship", kind: internship, angebotsart: 34}
+  - {what: "", kind: minijob, arbeitszeit: mj}
+  - {what: "Aushilfe", kind: minijob, arbeitszeit: mj}
+  - {what: "Küche", kind: minijob, arbeitszeit: mj}
+  - {what: "Lager", kind: minijob, arbeitszeit: mj}
+  - {what: "Reinigung", kind: minijob, arbeitszeit: mj}
+  - {what: "Studentische Aushilfe", kind: minijob}
+  - {what: "Studentenjob", kind: minijob}
+
+# Language heuristics (title words) and phrases that mean "German required"
+english_title_words: [engineer, working, student, intern, internship, developer, assistant, warehouse, associate, research, with, and, for, the, cook, cleaner, driver, delivery]
+german_title_words: [für, und, mit, mitarbeiter, aushilfe, fahrer, helfer, kraft, verkäufer, gesucht, bei, der, die, das, im, küchenhilfe, reinigungskraft, minijob]
+german_required_regex: "(fließend|fliessend|verhandlungssicher|sehr gute|gute)e?[nr]?\\s+deutsch|deutsch\\s*(c1|c2|b2|muttersprache)|german\\s*(c1|c2|b2|fluent)|fluent in german|deutschkenntnisse"
+
+# Titles containing these are dropped
+exclude_words: [ausbildung, azubi, "duales studium", "dual studierende", "senior"]
+
+# Adzuna (needs free ADZUNA_APP_ID / ADZUNA_APP_KEY, ~1000 calls/month free).
+# 6 queries x 4 runs/day x 30 days = 720 calls. Keep this list short.
+adzuna_queries:
+  - Werkstudent
+  - working student
+  - Praktikum
+  - internship
+  - Minijob
+  - Aushilfe
+
+# Company-feed jobs are only kept if the location matches this regex (or is empty)
+company_location_regex: "kassel|hessen|hesse|germany|deutschland|remote|home|hybrid"

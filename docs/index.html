@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Hunter · Kassel</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<meta name="theme-color" content="#1f5f7a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef2f4;--card:#fff;--ink:#14232b;--muted:#5b6b73;--line:#d5dee2;--accent:#1f5f7a;--accent-ink:#fff;--new:#b8780f;--bar:#c4d0d5}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#101a1f;--card:#17252c;--ink:#e6eef1;--muted:#8fa2ab;--line:#2a3b44;--accent:#6bb7d4;--accent-ink:#0c1a20;--new:#e0a43c;--bar:#2f434d}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 "Source Sans 3",system-ui,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:860px;margin:0 auto;padding:20px 16px 48px}
+h1{font:700 clamp(1.7rem,5vw,2.4rem)/1.1 "Bricolage Grotesque",system-ui,sans-serif;margin:8px 0 4px;letter-spacing:-.01em}
+.sub{color:var(--muted);margin:0 0 18px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.chip,select,input[type=search]{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:6px 14px;min-height:40px}
+.chip{cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+input[type=search]{flex:1 1 180px;border-radius:10px}
+select{border-radius:10px}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.toggles{display:flex;flex-wrap:wrap;gap:6px 18px;margin:6px 0 16px;color:var(--muted);font-size:.95rem}
+.toggles label{display:flex;align-items:center;gap:6px;min-height:32px}
+ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+li{display:grid;grid-template-columns:34px 1fr;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
+li.done{opacity:.6}
+.sig{display:flex;align-items:flex-end;gap:2px;height:26px;margin-top:4px}
+.sig i{width:5px;background:var(--bar);border-radius:1px}
+.sig i.on{background:var(--accent)}
+.title{font-weight:600;color:var(--ink);text-decoration:none;font-size:1.05rem}
+.title:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:.93rem;margin:2px 0 6px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.tag{font-size:.82rem;border:1px solid var(--line);border-radius:6px;padding:1px 8px}
+.tag.new{border-color:var(--new);color:var(--new);font-weight:600}
+.tag.bad{border-color:#b3412f;color:#b3412f}
+.acts{margin-left:auto;display:flex;gap:4px}
+.acts button{font:inherit;font-size:.88rem;background:none;border:1px solid transparent;color:var(--accent);border-radius:6px;padding:4px 8px;min-height:36px;cursor:pointer}
+.acts button[aria-pressed=true]{border-color:var(--accent)}
+[hidden]{display:none!important}
+a.chip{display:inline-flex;align-items:center;text-decoration:none}
+.group h2{font:700 1.05rem "Bricolage Grotesque",system-ui,sans-serif;margin:22px 0 8px}
+.hint{color:var(--muted);font-size:.93rem;margin:0 0 10px}
+footer{margin-top:28px;color:var(--muted);font-size:.85rem}
+footer a{color:var(--accent)}
+.empty{padding:36px 0;color:var(--muted)}
+.empty code{background:var(--card);padding:2px 6px;border-radius:4px}
+</style>
+</head>
+<body>
+<main>
+  <h1>Jobs in Kassel</h1>
+  <p class="sub" id="sub">Loading…</p>
+
+  <div class="controls" id="tabs" role="group" aria-label="View">
+    <button class="chip" data-t="jobs" aria-pressed="true">Tracked jobs</button>
+    <button class="chip" data-t="links" aria-pressed="false">Search everywhere</button>
+  </div>
+
+  <section id="jobsView">
+  <div class="controls" id="kinds" role="group" aria-label="Job type"></div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search title or company" aria-label="Search">
+    <select id="show" aria-label="Status">
+      <option value="open">Open</option><option value="saved">Saved</option>
+      <option value="applied">Applied</option><option value="hidden">Hidden</option><option value="all">Everything</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="new">Newest first</option><option value="match">Best match first</option>
+    </select>
+  </div>
+  <div class="toggles">
+    <label><input type="checkbox" id="newOnly"> New in last 48 h</label>
+    <label><input type="checkbox" id="hideDe"> Hide German-titled jobs</label>
+  </div>
+
+  <ul id="list"></ul>
+  </section>
+
+  <section id="linksView" hidden>
+    <p class="hint">One click opens each site with your search already filled in for Kassel. Use this for sites that cannot be tracked automatically.</p>
+    <div class="controls">
+      <select id="preset" aria-label="Search preset"></select>
+      <input type="search" id="custom" placeholder="Or type your own search" aria-label="Custom search">
+    </div>
+    <div class="group"><h2>Big job sites</h2><div class="controls" id="lkBig"></div></div>
+    <div class="group"><h2>Student, research and mini-job sites</h2><div class="controls" id="lkNiche"></div></div>
+    <div class="group"><h2>Employers (anti-drone, defence, RF, energy)</h2><div class="controls" id="lkEmp"></div></div>
+  </section>
+  <footer id="gh" hidden><a id="runnow" target="_blank" rel="noopener">Update jobs now (GitHub: Run workflow)</a></footer>
+  <footer>Some results by <a href="https://www.adzuna.com" target="_blank" rel="noopener">Jobs by Adzuna</a>. Data also from Bundesagentur für Arbeit and Arbeitnow.</footer>
+</main>
+
+<script>
+const KINDS=[["all","All"],["field","Field match"],["werkstudent","Werkstudent"],["internship","Internship"],["minijob","Mini job"]];
+const LABEL={werkstudent:"Werkstudent",internship:"Internship",minijob:"Mini job",other:"Other"};
+const LANG={en:"English",de:"German title","de-required":"German required",unknown:"Language unclear"};
+const S={kind:"all"};
+let jobs=[],status={};
+try{status=JSON.parse(localStorage.getItem("jh-status")||"{}")}catch(e){}
+const save=()=>{try{localStorage.setItem("jh-status",JSON.stringify(status))}catch(e){}};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const isNew=j=>Date.now()-Date.parse(j.first_seen)<48*3600e3;
+
+function chips(){
+  $("kinds").innerHTML=KINDS.map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${S.kind===k}">${l}</button>`).join("");
+}
+$("kinds").addEventListener("click",e=>{const k=e.target.dataset.k;if(k){S.kind=k;chips();render()}});
+["q","show","sort","newOnly","hideDe"].forEach(id=>$(id).addEventListener("input",render));
+
+function visible(){
+  const q=$("q").value.trim().toLowerCase(),show=$("show").value;
+  let r=jobs.filter(j=>{
+    const st=status[j.id]||"";
+    if(show==="open"&&(st==="hidden"||st==="applied"))return false;
+    if(show==="saved"&&st!=="saved")return false;
+    if(show==="applied"&&st!=="applied")return false;
+    if(show==="hidden"&&st!=="hidden")return false;
+    if(S.kind==="field"?j.score<3:S.kind!=="all"&&j.kind!==S.kind)return false;
+    if($("newOnly").checked&&!isNew(j))return false;
+    if($("hideDe").checked&&(j.lang==="de"||j.lang==="de-required"))return false;
+    if(q&&!(j.title+" "+j.company).toLowerCase().includes(q))return false;
+    return true;
+  });
+  r.sort($("sort").value==="match"?(a,b)=>b.score-a.score||b.first_seen.localeCompare(a.first_seen):(a,b)=>b.first_seen.localeCompare(a.first_seen)||b.score-a.score);
+  return r;
+}
+
+function render(){
+  const r=visible();
+  $("list").innerHTML=r.map(j=>{
+    const st=status[j.id]||"",bars=Math.ceil(j.score/2);
+    const sig=[1,2,3,4,5].map(i=>`<i class="${i<=bars?"on":""}" style="height:${i*5}px"></i>`).join("");
+    return `<li class="${st==="applied"||st==="hidden"?"done":""}">
+      <div class="sig" title="Field match ${j.score}/10" aria-label="Field match ${j.score} of 10">${sig}</div>
+      <div>
+        <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        <div class="meta">${esc(j.company||"Company not listed")} · ${esc(j.location)} · ${esc(j.source)}${j.posted?" · posted "+esc(j.posted):""}</div>
+        <div class="tags">
+          ${isNew(j)?'<span class="tag new">New</span>':""}
+          <span class="tag">${LABEL[j.kind]||j.kind}</span>
+          <span class="tag ${j.lang==="de-required"?"bad":""}">${LANG[j.lang]||""}</span>
+          <span class="acts">
+            <button data-id="${esc(j.id)}" data-s="saved" aria-pressed="${st==="saved"}">Save</button>
+            <button data-id="${esc(j.id)}" data-s="applied" aria-pressed="${st==="applied"}">Applied</button>
+            <button data-id="${esc(j.id)}" data-s="hidden" aria-pressed="${st==="hidden"}">Hide</button>
+          </span>
+        </div>
+      </div></li>`;
+  }).join("")||`<li class="empty" style="display:block">${jobs.length?"No jobs match these filters.":"No jobs yet. Run <code>python hunter.py</code>, then reload this page."}</li>`;
+  const n=jobs.filter(isNew).length;
+  $("sub").textContent=jobs.length?`${r.length} shown · ${jobs.length} tracked · ${n} new in the last 48 h`:"Waiting for the first run.";
+}
+$("list").addEventListener("click",e=>{
+  const b=e.target.closest("button[data-id]");if(!b)return;
+  const id=b.dataset.id,s=b.dataset.s;
+  status[id]=status[id]===s?"":s;save();render();
+});
+
+
+/* ---- Search everywhere ---- */
+const enc=encodeURIComponent;
+const BIG=[
+ ["LinkedIn",q=>`https://www.linkedin.com/jobs/search/?keywords=${enc(q)}&location=${enc("Kassel, Hessen, Germany")}&f_TPR=r604800`],
+ ["Indeed",q=>`https://de.indeed.com/jobs?q=${enc(q)}&l=Kassel&radius=25&fromage=7`],
+ ["StepStone",q=>`https://www.stepstone.de/jobs/${enc(q.trim().replace(/\s+/g,"-"))}/in-kassel?radius=30`],
+ ["Xing",q=>`https://www.xing.com/jobs/search?keywords=${enc(q)}&location=Kassel`],
+ ["Google Jobs",q=>`https://www.google.com/search?q=${enc(q+" Kassel")}&ibp=htl;jobs`]];
+const site=d=>q=>`https://www.google.com/search?q=${enc("site:"+d+" "+q+" Kassel")}`;
+const NICHE=[["jobvector","jobvector.de"],["Absolventa","absolventa.de"],["Studentenjob","studentenjob.de"],["Jobriver","jobriver.de"],["Kleinanzeigen","kleinanzeigen.de"],["EURAXESS","euraxess.ec.europa.eu"],["Uni Kassel (HiWi, Career Service)","uni-kassel.de"],["Fraunhofer","fraunhofer.de"],["DLR","dlr.de"]].map(([n,d])=>[n,site(d)]);
+const EMP=["KNDS","Rheinmetall","Hensoldt","Rohde & Schwarz","Airbus Defence","Dedrone Axon","SMA Solar","Fraunhofer IEE"].map(n=>[n,q=>`https://www.google.com/search?q=${enc(n+" careers "+q)}`]);
+const PRESETS=["Werkstudent signal processing","Working student engineer","Internship RF","Praktikum Elektrotechnik","Minijob","Studentische Aushilfe","HiWi Elektrotechnik"];
+$("preset").innerHTML=PRESETS.map(p=>`<option>${esc(p)}</option>`).join("");
+function links(){
+  const q=$("custom").value.trim()||$("preset").value;
+  const fill=(id,arr)=>$(id).innerHTML=arr.map(([n,f])=>`<a class="chip" href="${esc(f(q))}" target="_blank" rel="noopener">${esc(n)}</a>`).join("");
+  fill("lkBig",BIG);fill("lkNiche",NICHE);fill("lkEmp",EMP);
+}
+["preset","custom"].forEach(id=>$(id).addEventListener("input",links));links();
+$("tabs").addEventListener("click",e=>{
+  const t=e.target.dataset.t;if(!t)return;
+  $("jobsView").hidden=t!=="jobs";$("linksView").hidden=t!=="links";
+  document.querySelectorAll("#tabs .chip").forEach(b=>b.setAttribute("aria-pressed",b.dataset.t===t));
+});
+
+if("serviceWorker" in navigator&&location.protocol.startsWith("http"))navigator.serviceWorker.register("sw.js").catch(()=>{});
+if(location.hostname.endsWith(".github.io")){
+  const user=location.hostname.split(".")[0],repo=location.pathname.split("/")[1];
+  if(repo){$("runnow").href=`https://github.com/${user}/${repo}/actions/workflows/hunt.yml`;$("gh").hidden=false}
+}
+fetch("jobs.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  jobs=d.jobs||[];
+  if(d.updated)document.title="Job Hunter · updated "+new Date(d.updated).toLocaleString();
+  chips();render();
+  if(d.updated)$("sub").textContent+=" · updated "+new Date(d.updated).toLocaleString();
+}).catch(()=>{chips();$("sub").innerHTML="Could not load jobs.json. Open this page through a local server (see README), not by double-clicking the file.";});
+</script>
+</body>
+</html>

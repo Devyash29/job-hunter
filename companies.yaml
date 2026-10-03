@@ -1,0 +1,10 @@
+# Employers whose career feed you want to watch.
+# Find the ATS from the company's job-page URL:
+#   boards.greenhouse.io/<id>  or  job-boards.greenhouse.io/<id>   -> ats: greenhouse
+#   jobs.lever.co/<id>                                              -> ats: lever
+#   <id>.jobs.personio.de  or  <id>.jobs.personio.com               -> ats: personio
+#   jobs.smartrecruiters.com/<id>                                   -> ats: smartrecruiters
+# Companies with other systems: use the "Search everywhere" tab on the dashboard.
+companies: []
+#  - {name: ExampleCorp, ats: greenhouse, id: examplecorp}
+#  - {name: ExampleRF GmbH, ats: personio, id: examplerf}
