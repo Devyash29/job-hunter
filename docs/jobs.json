@@ -1,6 +1,1191 @@
 {
- "updated": "2026-10-03T09:22:35Z",
+ "updated": "2026-10-03T09:33:12Z",
  "jobs": [
+  {
+   "id": "ba-12811-2348302-S",
+   "title": "Weihnachtsaushilfe (m/w/d) - Ratio-Land Baunatal, 1459 - KS 3",
+   "company": "Nanu-Nana Geschenkideen GmbH & Co. KG",
+   "location": "34225, Baunatal",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2348302-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-01",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-15537-JOB-497981-S",
+   "title": "FahrerIn (all genders) für unsere Ahnataler Tagespflege ...",
+   "company": "G & G Pflegedienst GmbH",
+   "location": "34292, Ahnatal",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15537-JOB-497981-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-20",
+   "text": "Fahrer/in - Personenbeförderung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2556-99695-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34434, Borgentreich",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2556-99695-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5200-3bcf9-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34399, Wesertal",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5200-3bcf9-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2184-66ead-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34537, Bad Wildungen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2184-66ead-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5453-6ba5a-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34582, Borken (Hessen)",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5453-6ba5a-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2152-246b7-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34385, Bad Karlshafen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2152-246b7-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2561-f2d02-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37079, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2561-f2d02-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2014-6bbd7-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37170, Uslar",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2014-6bbd7-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5300-73752-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34414, Warburg, Westfalen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5300-73752-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2540-28dc5-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37688, Beverungen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2540-28dc5-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-6259-96fbc-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37081, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-6259-96fbc-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-6264-05758-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37073, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-6264-05758-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2209-ddaa0-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37120, Bovenden",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2209-ddaa0-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-6287-1d732-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37120, Bovenden",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-6287-1d732-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2278-22e65-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34621, Frielendorf",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2278-22e65-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-11",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-1850-1df20-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37308, Heilbad Heiligenstadt",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-1850-1df20-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5310-ebc7e-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37176, Nörten-Hardenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5310-ebc7e-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-6294-c5acf-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34431, Marsberg, Sauerland",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-6294-c5acf-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-8635-f6bff-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37308, Heilbad Heiligenstadt",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-8635-f6bff-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5234-ffe40-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34519, Diemelsee",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5234-ffe40-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2563-d7bb3-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "36286, Neuenstein, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2563-d7bb3-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5373-9451e-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37308, Geismar, Eichsfeld",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5373-9451e-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2555-12a9f-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37186, Moringen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2555-12a9f-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-6257-5b596-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37671, Höxter",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-6257-5b596-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2554-833e5-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34613, Schwalmstadt",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2554-833e5-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5429-86edf-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "33165, Lichtenau, Westfalen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5429-86edf-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5437-78e44-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "33014, Bad Driburg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5437-78e44-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-5233-fd862-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37603, Holzminden",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-5233-fd862-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-6-2566-7b3c0-S",
+   "title": "Aushilfe (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37154, Northeim",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-6-2566-7b3c0-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-13640-JOB-241868-S",
+   "title": "Fachkraft Küche (m/w/d)",
+   "company": "Kolping Ferienparadies Pferdeberg",
+   "location": "37115, Duderstadt, Niedersachsen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13640-JOB-241868-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-01",
+   "text": "Großküchenkoch/-köchin",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10000-1207206512-S",
+   "title": "*** Mini-Job *** Mitarbeiter/in Küche (m/w/d)",
+   "company": "Silvia Galluzzi Restaurant Il Sapore",
+   "location": "37115, Duderstadt, Niedersachsen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207206512-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-15",
+   "text": "Helfer/in - Küche",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-15537-JOB-856814-S",
+   "title": "Küchenhilfe / Mitarbeiter Küche / Quereinsteiger (m / w...",
+   "company": "Ev. Altenhilfe Gesundbrunnen gGmbH",
+   "location": "34537, Bad Wildungen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15537-JOB-856814-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-08",
+   "text": "Hauswirtschafter/in",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-17039-k58956.4185-S",
+   "title": "Hauswirtschaftshilfe (m/w/d)",
+   "company": "RWS Cateringservice GmbH",
+   "location": "37327, Leinefelde-Worbis",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17039-k58956.4185-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-25",
+   "text": "Helfer/in - Küche",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-13947-00009d18a4a001-S",
+   "title": "***Minijob*** Küchenkraft (m/w/d) für Kitas und Schulen",
+   "company": "Menüpartner B.V. & Co. KG",
+   "location": "37154, Northeim",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13947-00009d18a4a001-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-08",
+   "text": "Helfer/in - Küche",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12608-1451796-82850-1-S",
+   "title": "Aushilfe / Minijob verzehrfertige Speisen / Convenience (m/w/d)",
+   "company": "REWE Markt GmbH ZwNL Mitte",
+   "location": "34508, Willingen (Upland)",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1451796-82850-1-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-15",
+   "text": "Helfer/in - Küche",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10000-1202490107-S",
+   "title": "Minijob - Servicekräfte (m/w/d) für die Bewohner-Teeküchen",
+   "company": "Seniorenheim Emmermann GmbH",
+   "location": "37170, Uslar",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202490107-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-30",
+   "text": "Servicekraft - Gastronomie und Gastgewerbe",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10001-1003708723-S",
+   "title": "Reinigungskraft für Büroräume gesucht!",
+   "company": "TeamEinsNull GmbH",
+   "location": "37075, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003708723-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-15",
+   "text": "Gebäudereiniger/in",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12280-2026-79514-0-S",
+   "title": "McCafé®- & Restaurant-Mitarbeiter:in - Minijob",
+   "company": "Restaurantgruppe Sawizki KG",
+   "location": "36275, Kirchheim, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12280-2026-79514-0-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-23",
+   "text": "Servicekraft - Gastronomie und Gastgewerbe",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12280-2026-79241-0-S",
+   "title": "McCafé®- & Restaurant-Mitarbeiter:in - Minijob",
+   "company": "Petra Hebig  GmbH & Co. KG",
+   "location": "37176, Nörten-Hardenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12280-2026-79241-0-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-09",
+   "text": "Servicekraft - Gastronomie und Gastgewerbe",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12280-2026-79319-0-S",
+   "title": "Restaurant-Mitarbeiter:in - Minijob",
+   "company": "Systemgastronomie Einbeck Maike Neuenroth e.K.",
+   "location": "37574, Einbeck",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12280-2026-79319-0-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Servicekraft - Gastronomie und Gastgewerbe",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10001-1003787710-S",
+   "title": "Aushilfskraft Lagerwirtschaft auf Minijobbasis",
+   "company": "Heintrans Logistik GmbH",
+   "location": "34497, Korbach",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003787710-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-01",
+   "text": "Lager- und Transportarbeiter/in",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12608-1455468-8199-1-S",
+   "title": "Servicemitarbeiter in Brakel im Baumarkt auf Teilzeit-Basis (m/w/d)",
+   "company": "REWE Group",
+   "location": "33034, Brakel, Westfalen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1455468-8199-1-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-29",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-268562021026-S",
+   "title": "Warenverräumer (w/m/d) 6 Std./Wo. in 37073 Göttingen",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "37073, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-268562021026-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-02",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-16088-3141945_4078527-S",
+   "title": "Lagerhelfer Frühschicht [Minijob] (m/w/d)",
+   "company": "DPD Deutschland GmbH",
+   "location": "37176, Nörten-Hardenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16088-3141945_4078527-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-02",
+   "text": "Fachlagerist/in",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-270966011026-S",
+   "title": "Warenverräumer (w/m/d) 6 Std./Wo. in 35066 Frankenberg (Eder)",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "35066, Frankenberg (Eder)",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270966011026-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-01",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-269837210926-S",
+   "title": "Warenverräumer (w/m/d) 5 Std./Wo. in 34454 Bad Arolsen",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "34454, Bad Arolsen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-269837210926-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-20441-2333473-S",
+   "title": "Flexible Aushilfen als Lagermitarbeiter (m/w/d)",
+   "company": "Sanacorp Pharmahandel GmbH",
+   "location": "36286, Neuenstein, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20441-2333473-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-17",
+   "text": "Helfer/in - Lagerwirtschaft, Transport",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-270091240926-S",
+   "title": "Warenverräumer (w/m/d) 6 Std./Wo. in 34497 Korbach",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "34497, Korbach",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-270091240926-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-24",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-269901210926-S",
+   "title": "Warenverräumer (w/m/d) 6 Std./Wo. in 37115 Duderstadt",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "37115, Duderstadt, Niedersachsen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-269901210926-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-269413140926-S",
+   "title": "Warenverräumer (w/m/d) 6 Std./Wo. in 34613 Schwalmstadt",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "34613, Schwalmstadt",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-269413140926-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12951-15b7b933-87e9-456f--S",
+   "title": "Lagerhelfer Frühschicht [Minijob] (m/w/d)",
+   "company": "DPD Deutschland GmbH (Depot 137)",
+   "location": "37176, Nörten-Hardenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-15b7b933-87e9-456f--S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-28",
+   "text": "Helfer/in - Kurier-, Zustell- und Postdienstleistungen",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12787-269270100926-S",
+   "title": "Aushilfe für die Warenverräumung (w/m/d) 5 Std./Wo. in 37154 Northeim",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "37154, Northeim",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-269270100926-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-10",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-21175-SN1351K3BZ4HLOLJ-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Liebelt Gebäudedienste GmbH   Co. KG",
+   "location": "34508, Willingen (Upland)",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21175-SN1351K3BZ4HLOLJ-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-02",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-21175-55YYIR11ZCBL6RJE-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Liebelt Gebäudedienste GmbH   Co. KG",
+   "location": "34431, Marsberg, Sauerland",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21175-55YYIR11ZCBL6RJE-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-02",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-15537-JOB-839638-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Werraland Lebenswelten e.V.",
+   "location": "37269, Eschwege",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15537-JOB-839638-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-30",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2184-1b8fe-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34537, Bad Wildungen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2184-1b8fe-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2561-4b07b-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37079, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2561-4b07b-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-5453-00ee7-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34582, Borken (Hessen)",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-5453-00ee7-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2563-4b266-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "36286, Neuenstein, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2563-4b266-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2209-a13f9-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37120, Bovenden",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2209-a13f9-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2172-80295-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37154, Northeim",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2172-80295-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2544-3ee8b-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "33181, Bad Wünnenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2544-3ee8b-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-1972-1a539-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "99834, Gerstungen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-1972-1a539-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-21",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-2278-34d7f-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34621, Frielendorf",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-2278-34d7f-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-11",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-6294-2e888-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "34431, Marsberg, Sauerland",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-6294-2e888-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-5429-b64e3-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "33165, Lichtenau, Westfalen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-5429-b64e3-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12951-4fcb79b0-6201-491c--S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Stölting Service Group",
+   "location": "36179, Bebra",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-4fcb79b0-6201-491c--S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-24",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-5456-7f9a2-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "37586, Dassel, Solling",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-5456-7f9a2-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-18279-137-5160-1bc24-S",
+   "title": "Reinigungskraft (m/w/d)",
+   "company": "Netto Marken-Discount Stiftung & Co. KG",
+   "location": "33181, Bad Wünnenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-137-5160-1bc24-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-14",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-19220-44269bc74b71443b-S",
+   "title": "Reinigungskraft in der Filiale Minijob (m/w/d)",
+   "company": "Lidl Dienstleistung GmbH & Co. KG",
+   "location": "37586, Dassel, Solling",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-44269bc74b71443b-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-29",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-12951-f5a5feaf-e270-4f7c--S",
+   "title": "Studentische Aushilfe Verkauf (m/w/d) Göttingen",
+   "company": "Barbarino",
+   "location": "37073, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-f5a5feaf-e270-4f7c--S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-25",
+   "text": "Verkäufer/in",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10001-1003702984-S",
+   "title": "studentische Aushilfe Verkauf (m/w/d) Göttingen",
+   "company": "Unternehmensgruppe Dr. Eckert GmbH",
+   "location": "37073, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003702984-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-16",
+   "text": "Verkäufer/in",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10001-1003747669-S",
+   "title": "Werkstudent / Studentische Aushilfe (m/w) im Mobilfunkhandel – Neben dem Studium Geld verdienen",
+   "company": "Y-FON Houria Yilmaz",
+   "location": "37603, Holzminden",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003747669-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-22",
+   "text": "Kaufmann/-frau - Einzelhandel",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10001-1003747665-S",
+   "title": "Werkstudent / Studentische Aushilfe (m/w) im Mobilfunkhandel – Neben dem Studium Geld verdienen",
+   "company": "Y-FON Houria Yilmaz",
+   "location": "37603, Holzminden",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003747665-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-22",
+   "text": "Kaufmann/-frau - Einzelhandel",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-19220-448dd82811f7afff-S",
+   "title": "Studentenjob im Verkauf Teilzeit (m/w/d)",
+   "company": "Lidl Dienstleistung GmbH & Co. KG",
+   "location": "37688, Beverungen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-448dd82811f7afff-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-24",
+   "text": "Helfer/in - Verkauf",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-19220-ddceb7cff1d70db3-S",
+   "title": "Studentenjob im Verkauf Teilzeit (m/w/d)",
+   "company": "Lidl Dienstleistung GmbH & Co. KG",
+   "location": "34497, Korbach",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-ddceb7cff1d70db3-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-10",
+   "text": "Helfer/in - Verkauf",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-10001-1003781150-S",
+   "title": "Werkstudentin / Werkstudenten (w/m/d) der Fachrichtung Bauingenieurwesen",
+   "company": "Hessen Mobil - Straßen- und Verkehrsmanagement",
+   "location": "34134, Kassel, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003781150-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-02",
+   "text": "Ingenieur/in - Bau",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
+  {
+   "id": "ba-13640-JOB-847081-S",
+   "title": "Werkstudent:in IT Fachbereich ERP-Systeme (w/m/d)",
+   "company": "beckers bester GmbH",
+   "location": "37176, Nörten-Hardenberg",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13640-JOB-847081-S",
+   "source": "Bundesagentur",
+   "posted": "2026-09-07",
+   "text": "Assistent/in - Informatik (Softwaretechnik)",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-03T09:33:12Z",
+   "last_seen": "2026-10-03T09:33:12Z"
+  },
   {
    "id": "ba-10001-1003692280-S",
    "title": "Werkstudent im Bereich Automatisierungstechnik (m/w/d)",
@@ -14,7 +1199,7 @@
    "score": 1,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12811-2343210-S",
@@ -29,7 +1214,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-15939-BB-635352-7878-8842-S",
@@ -44,7 +1229,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003777797-S",
@@ -59,7 +1244,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-15537-JOB-684161-S",
@@ -74,7 +1259,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-15537-JOB-684160-S",
@@ -89,7 +1274,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-15537-JOB-849085-S",
@@ -104,7 +1289,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12518-CCIU2C-KG4-S",
@@ -119,7 +1304,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12518-PCDOCU-0EJ-S",
@@ -134,7 +1319,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12811-2348290-S",
@@ -149,7 +1334,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003776211-S",
@@ -164,7 +1349,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003776124-S",
@@ -179,7 +1364,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003745304-S",
@@ -194,7 +1379,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-20713-44467422-925-S",
@@ -209,7 +1394,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5381-cc36f-S",
@@ -224,7 +1409,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12811-2348287-S",
@@ -239,7 +1424,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003719237-S",
@@ -254,7 +1439,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10000-1208006996-S",
@@ -269,7 +1454,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003668676-S",
@@ -284,7 +1469,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003697231-S",
@@ -299,7 +1484,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003689130-S",
@@ -314,7 +1499,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003678710-S",
@@ -329,7 +1514,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12608-1453454-30156-1-S",
@@ -344,7 +1529,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003730386-S",
@@ -359,7 +1544,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5066-a361b-S",
@@ -374,7 +1559,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-15537-JOB-581753-S",
@@ -389,7 +1574,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-21175-IEPQH5PXXW8EEVMA-S",
@@ -404,7 +1589,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-20713-44467420-925-S",
@@ -419,7 +1604,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-2513-1750f-S",
@@ -434,7 +1619,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003390271-S",
@@ -449,7 +1634,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-2018-f21ae-S",
@@ -464,7 +1649,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003167106-S",
@@ -479,7 +1664,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12412-1e87d0af_JB4722879-S",
@@ -494,7 +1679,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003064344-S",
@@ -509,7 +1694,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5343-07358-S",
@@ -524,7 +1709,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5133-76c8c-S",
@@ -539,7 +1724,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5312-22dfa-S",
@@ -554,7 +1739,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5219-1ff33-S",
@@ -569,7 +1754,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-2546-4c323-S",
@@ -584,7 +1769,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5275-25713-S",
@@ -599,7 +1784,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5036-43ad6-S",
@@ -614,7 +1799,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5548-350cb-S",
@@ -629,7 +1814,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-2045-0fde9-S",
@@ -644,7 +1829,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5602-f63b5-S",
@@ -659,7 +1844,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5321-0e492-S",
@@ -674,7 +1859,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5119-4a997-S",
@@ -689,7 +1874,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-6292-073cd-S",
@@ -704,7 +1889,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5157-550b5-S",
@@ -719,7 +1904,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-5426-93477-S",
@@ -734,7 +1919,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-6255-bded8-S",
@@ -749,7 +1934,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-18279-6-6249-d1c71-S",
@@ -764,7 +1949,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003765663-S",
@@ -824,7 +2009,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12787-269534140926-S",
@@ -839,7 +2024,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-13466-00022c22643001-S",
@@ -854,7 +2039,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-19220-e629ed77bc7beb8e-S",
@@ -869,7 +2054,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-19220-80d7e30a79675a1f-S",
@@ -884,7 +2069,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10000-1207963748-S",
@@ -899,7 +2084,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10001-1003528482-S",
@@ -914,7 +2099,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12811-2343532-S",
@@ -929,7 +2114,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-12951-09019465-bd98-4747--S",
@@ -944,7 +2129,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-10000-1207949767-S",
@@ -959,7 +2144,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-19220-84728dfa9759ea38-S",
@@ -974,7 +2159,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "ba-19220-1522ce9efabddf34-S",
@@ -989,7 +2174,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-ai-developer-nurnberg-350342",
@@ -1004,7 +2189,7 @@
    "score": 2,
    "lang": "en",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-backend-engineer-agentic-ai-berlin-371659",
@@ -1019,7 +2204,7 @@
    "score": 2,
    "lang": "de-required",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-ai-product-engineer-berlin-20956",
@@ -1034,7 +2219,7 @@
    "score": 2,
    "lang": "de-required",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-werkstudent-vertrieb-stuttgart-342938",
@@ -1049,7 +2234,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-tiktok-content-creator-video-editor-werkstudentenstelle-neckargemund-261700",
@@ -1064,7 +2249,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-java-entwicklerin-java-developer-backend-munster-325044",
@@ -1079,7 +2264,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-network-developer-269751",
@@ -1094,7 +2279,7 @@
    "score": 1,
    "lang": "en",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-werkstudentin-datenmanagement-ki-heidelberg-498955",
@@ -1109,7 +2294,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-188206",
@@ -1124,7 +2309,7 @@
    "score": 0,
    "lang": "de-required",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   },
   {
    "id": "an-remote-team-lead-talent-acquisition-290576",
@@ -1139,7 +2324,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:16:22Z",
-   "last_seen": "2026-10-03T09:22:35Z"
+   "last_seen": "2026-10-03T09:33:12Z"
   }
  ]
 }
