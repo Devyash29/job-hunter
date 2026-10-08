@@ -1,6 +1,171 @@
 {
- "updated": "2026-10-08T12:23:57Z",
+ "updated": "2026-10-08T22:36:38Z",
  "jobs": [
+  {
+   "id": "an-remote-product-engineer-96085",
+   "title": "Product Engineer",
+   "company": "0G",
+   "location": "Remote (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-96085",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08",
+   "text": " About the Role   We’re looking for a product engineer who takes ownership of outcomes, not just assigned tasks. You’ll work across 4–5 products with different technology stacks, identify high-value problems, and carry solutions through design, implementation, testing, documentation, delivery, and o",
+   "kind": "other",
+   "score": 2,
+   "lang": "en",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "an-remote-delivery-architect-sap-wm-uk-174474",
+   "title": "Delivery Architect (SAP WM)",
+   "company": "The Config Team",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-174474",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08",
+   "text": "  Job title:  Delivery Architect (SAP WM)   Employment:  Permanent   Location:&nbsp; UK-Based, Remote   Salary:&nbsp; Excellent basic salary depending on experience   Benefits:  24 days holiday, paid birthday day off, paid volunteer day, holiday buy &amp; sell, Bupa private healthcare, 5% employer m",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "an-remote-applied-ai-engineer-404690",
+   "title": "Applied AI Engineer",
+   "company": "ElevenLabs",
+   "location": "Remote (remote)",
+   "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08",
+   "text": " About ElevenLabs  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises lik",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "an-remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
+   "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
+   "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+   "location": "Homeoffice (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-355821",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08",
+   "text": "   Du siehst keine passende Stelle, möchtest aber trotzdem Teil der BBHT werden? Dann bewirb Dich initiativ bei uns.     Vielleicht bist Du IT-Projektleiter:in, Business Analyst:in, Consultant, Softwareentwickler:in, Testmanager:in oder bringst ganz andere Skills mit, die zu uns passen? Wir sind imm",
+   "kind": "other",
+   "score": 1,
+   "lang": "de-required",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "an-gmt-engineering-intern-remote-munich-180613",
+   "title": "GMT Engineering Intern (m/f/d) | Remote",
+   "company": "Beglaubigt.de",
+   "location": "Munich (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/gmt-engineering-intern-remote-munich-180613",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08",
+   "text": " Wir sind  beglaubigt – Europas erster digitaler Notar . Mit unserer Plattform läuft der komplette Notariatsprozess digital: bequem, schnell und sicher, ganz ohne Bürokratie und lange Wartezeiten. Als Vorreiter revolutionieren wir eine der ältesten Branchen – und wachsen schnell. Jetzt suchen wir ei",
+   "kind": "internship",
+   "score": 1,
+   "lang": "de-required",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "ba-12787-271535081026-S",
+   "title": "Warenverräumer (w/m/d) 7 Std./Wo. in 34134 Kassel",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "34134, Kassel, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-271535081026-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-08",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "ba-10001-1001477012-S",
+   "title": "Wochenblattzusteller (m/w/d) für KS-Rothenditmold / Nord (Holland)/ Unterneustadt/Wesertor",
+   "company": "VTS Nord GmbH",
+   "location": "34127, Kassel, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001477012-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-08",
+   "text": "Helfer/in - Kurier-, Zustell- und Postdienstleistungen",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "ba-10001-1001382921-S",
+   "title": "Wochenblattzusteller (m/w/d) für Söhrewald / KS-Philippinenhof",
+   "company": "VTS Nord GmbH",
+   "location": "34127, Kassel, Hessen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001382921-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-08",
+   "text": "Helfer/in - Kurier-, Zustell- und Postdienstleistungen",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "ba-10001-1003828934-S",
+   "title": "Weihnachtsaushilfe im Lager (m/w/d) auf Minijob Basis oder in Teilzeit",
+   "company": "Hofmeister Holzwaren GmbH",
+   "location": "37081, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003828934-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-08",
+   "text": "Helfer/in - Lagerwirtschaft, Transport",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "ba-12787-267952081026-S",
+   "title": "Warenverräumer (w/m/d) 6 Std./Wo. in 37073 Göttingen",
+   "company": "dm-drogerie markt GmbH + Co.KG",
+   "location": "37073, Göttingen",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-267952081026-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-08",
+   "text": "Helfer/in - Verkauf",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
+  {
+   "id": "an-studentische-hilfskraft-potsdam-377838",
+   "title": "Studentische Hilfskraft",
+   "company": "MCH Ventures",
+   "location": "Potsdam (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/mch-ventures/studentische-hilfskraft-potsdam-377838",
+   "source": "Arbeitnow",
+   "posted": "2026-10-08",
+   "text": " Wir sind eine spezialisierte Beratung, die innovative Startups und Mittelständler dabei unterstützt, Fördermittel zu erschließen. Für unser wachsendes Team suchen wir einen Student Consultant, der Lust hat, direkt an der Schnittstelle von Innovation, Wissenschaft und Unternehmertum zu arbeiten. \n A",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-08T22:36:38Z",
+   "last_seen": "2026-10-08T22:36:38Z"
+  },
   {
    "id": "an-werkstudent-in-online-marketing-partnerships-off-page-seo-remote-mannheim-51078",
    "title": "Werkstudent/in Online-Marketing - Partnerships & Off-Page-SEO (m/w/d) | Remote",
@@ -14,7 +179,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-werkstudent-in-linkbuilding-outreach-remote-mannheim-194883",
@@ -29,7 +194,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-werkstudent-in-seo-outreach-kooperationen-linkbuilding-remote-mannheim-70953",
@@ -44,7 +209,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-remote-ios-developer-radiotech-406158",
@@ -59,7 +224,7 @@
    "score": 1,
    "lang": "en",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-remote-werkstudentin-data-analytics-controlling-focus-hamburg-349359",
@@ -89,7 +254,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12608-1458528-10417-1-S",
@@ -104,7 +269,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-14340-488871767-S",
@@ -119,7 +284,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-remote-werkstudentin-operational-excellence-berlin-478364",
@@ -209,7 +374,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-teamlead-content-strategist-berlin-114115",
@@ -254,7 +419,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003820557-S",
@@ -269,7 +434,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10000-1208157044-S",
@@ -284,7 +449,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13103-26391_JB5267159-S",
@@ -299,7 +464,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13103-26390_JB5267158-S",
@@ -314,7 +479,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13103-26388_JB5267156-S",
@@ -329,7 +494,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13466-00022c22716001-S",
@@ -344,7 +509,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13103-26389_JB5267157-S",
@@ -359,7 +524,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-pflichtpraktikum-als-marketing-manager-im-b2b-bochum-410301",
@@ -554,7 +719,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T12:13:25Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-initiativbewerbung-berlin-11744",
@@ -614,7 +779,7 @@
    "score": 3,
    "lang": "unknown",
    "first_seen": "2026-10-06T21:58:14Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
@@ -674,7 +839,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-06T21:58:14Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-ux-ui-designer-saas-digitale-produkte-saarbrucken-2207",
@@ -704,7 +869,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-06T21:58:14Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-14087-5HE9NR57UW7CAS2Y-S",
@@ -824,7 +989,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-06T12:21:27Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-11119-4955342865-S",
@@ -854,7 +1019,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-06T12:21:27Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-unpaid-content-creator-social-media-intern-mandatory-or-voluntary-internship-remote-berlin-278489",
@@ -1034,7 +1199,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13466-00022c22696001-S",
@@ -1049,7 +1214,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003793334-S",
@@ -1064,7 +1229,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12951-b2557ea9-77b0-4504--S",
@@ -1079,7 +1244,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-20263-2350373-S",
@@ -1094,7 +1259,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-werkstudent-praktikant-social-media-marketing-seligenstadt-39456",
@@ -1214,7 +1379,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-04T03:13:27Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
@@ -1304,7 +1469,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5200-3bcf9-S",
@@ -1319,7 +1484,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2184-66ead-S",
@@ -1334,7 +1499,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5453-6ba5a-S",
@@ -1349,7 +1514,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2152-246b7-S",
@@ -1364,7 +1529,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2561-f2d02-S",
@@ -1379,7 +1544,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2014-6bbd7-S",
@@ -1394,7 +1559,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5300-73752-S",
@@ -1409,7 +1574,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2540-28dc5-S",
@@ -1424,7 +1589,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6259-96fbc-S",
@@ -1439,7 +1604,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6264-05758-S",
@@ -1454,7 +1619,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2209-ddaa0-S",
@@ -1469,7 +1634,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6287-1d732-S",
@@ -1484,7 +1649,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2278-22e65-S",
@@ -1499,7 +1664,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-1850-1df20-S",
@@ -1514,7 +1679,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5310-ebc7e-S",
@@ -1529,7 +1694,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6294-c5acf-S",
@@ -1544,7 +1709,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-8635-f6bff-S",
@@ -1559,7 +1724,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5234-ffe40-S",
@@ -1574,7 +1739,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2563-d7bb3-S",
@@ -1589,7 +1754,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5373-9451e-S",
@@ -1604,7 +1769,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2555-12a9f-S",
@@ -1619,7 +1784,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6257-5b596-S",
@@ -1634,7 +1799,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2554-833e5-S",
@@ -1649,7 +1814,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5429-86edf-S",
@@ -1664,7 +1829,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5437-78e44-S",
@@ -1679,7 +1844,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5233-fd862-S",
@@ -1694,7 +1859,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2566-7b3c0-S",
@@ -1709,7 +1874,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13640-JOB-241868-S",
@@ -1724,7 +1889,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10000-1207206512-S",
@@ -1739,7 +1904,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15537-JOB-856814-S",
@@ -1754,7 +1919,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-17039-k58956.4185-S",
@@ -1769,7 +1934,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13947-00009d18a4a001-S",
@@ -1784,7 +1949,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12608-1451796-82850-1-S",
@@ -1799,7 +1964,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10000-1202490107-S",
@@ -1814,7 +1979,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003708723-S",
@@ -1844,7 +2009,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12280-2026-79241-0-S",
@@ -1859,7 +2024,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12280-2026-79319-0-S",
@@ -1874,7 +2039,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003787710-S",
@@ -1889,7 +2054,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12608-1455468-8199-1-S",
@@ -1904,7 +2069,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12787-268562021026-S",
@@ -1934,7 +2099,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12787-270966011026-S",
@@ -1949,7 +2114,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12787-269837210926-S",
@@ -1964,7 +2129,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-20441-2333473-S",
@@ -1994,7 +2159,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12787-269901210926-S",
@@ -2009,7 +2174,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12787-269413140926-S",
@@ -2024,7 +2189,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12951-15b7b933-87e9-456f--S",
@@ -2054,7 +2219,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-21175-SN1351K3BZ4HLOLJ-S",
@@ -2069,7 +2234,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-21175-55YYIR11ZCBL6RJE-S",
@@ -2084,7 +2249,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15537-JOB-839638-S",
@@ -2099,7 +2264,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2184-1b8fe-S",
@@ -2114,7 +2279,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2561-4b07b-S",
@@ -2129,7 +2294,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-5453-00ee7-S",
@@ -2144,7 +2309,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2563-4b266-S",
@@ -2159,7 +2324,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2209-a13f9-S",
@@ -2174,7 +2339,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2172-80295-S",
@@ -2189,7 +2354,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2544-3ee8b-S",
@@ -2204,7 +2369,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-1972-1a539-S",
@@ -2219,7 +2384,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-2278-34d7f-S",
@@ -2234,7 +2399,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-6294-2e888-S",
@@ -2249,7 +2414,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-137-5429-b64e3-S",
@@ -2264,7 +2429,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12951-4fcb79b0-6201-491c--S",
@@ -2339,7 +2504,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003702984-S",
@@ -2354,7 +2519,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003747669-S",
@@ -2369,7 +2534,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003747665-S",
@@ -2384,7 +2549,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-19220-448dd82811f7afff-S",
@@ -2399,7 +2564,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-19220-ddceb7cff1d70db3-S",
@@ -2414,7 +2579,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003781150-S",
@@ -2429,7 +2594,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13640-JOB-847081-S",
@@ -2459,7 +2624,7 @@
    "score": 1,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12811-2343210-S",
@@ -2474,7 +2639,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15939-BB-635352-7878-8842-S",
@@ -2489,7 +2654,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003777797-S",
@@ -2504,7 +2669,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15537-JOB-684161-S",
@@ -2519,7 +2684,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15537-JOB-684160-S",
@@ -2534,7 +2699,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15537-JOB-849085-S",
@@ -2549,7 +2714,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12518-CCIU2C-KG4-S",
@@ -2564,7 +2729,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12518-PCDOCU-0EJ-S",
@@ -2579,7 +2744,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12811-2348290-S",
@@ -2594,7 +2759,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003776211-S",
@@ -2609,7 +2774,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003776124-S",
@@ -2624,7 +2789,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003745304-S",
@@ -2639,7 +2804,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-20713-44467422-925-S",
@@ -2669,7 +2834,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12811-2348287-S",
@@ -2684,7 +2849,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003719237-S",
@@ -2699,7 +2864,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10000-1208006996-S",
@@ -2714,7 +2879,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003668676-S",
@@ -2729,7 +2894,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003697231-S",
@@ -2738,13 +2903,13 @@
    "location": "Kassel, Hessen",
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003697231-S",
    "source": "Bundesagentur",
-   "posted": "2026-09-27",
+   "posted": "2026-10-08",
    "text": "Bühnenarbeiter/in",
    "kind": "minijob",
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003689130-S",
@@ -2759,7 +2924,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003678710-S",
@@ -2774,7 +2939,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12608-1453454-30156-1-S",
@@ -2789,7 +2954,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003730386-S",
@@ -2804,7 +2969,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5066-a361b-S",
@@ -2819,7 +2984,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-15537-JOB-581753-S",
@@ -2834,7 +2999,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-21175-IEPQH5PXXW8EEVMA-S",
@@ -2849,7 +3014,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-20713-44467420-925-S",
@@ -2864,7 +3029,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2513-1750f-S",
@@ -2879,7 +3044,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003390271-S",
@@ -2894,7 +3059,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2018-f21ae-S",
@@ -2909,7 +3074,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003167106-S",
@@ -2924,7 +3089,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12412-1e87d0af_JB4722879-S",
@@ -2939,7 +3104,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003064344-S",
@@ -2948,13 +3113,13 @@
    "location": "Kassel, Hessen",
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003064344-S",
    "source": "Bundesagentur",
-   "posted": "2026-09-27",
+   "posted": "2026-10-08",
    "text": "Bühnenarbeiter/in",
    "kind": "minijob",
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5343-07358-S",
@@ -2969,7 +3134,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5133-76c8c-S",
@@ -2984,7 +3149,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5312-22dfa-S",
@@ -2999,7 +3164,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5219-1ff33-S",
@@ -3014,7 +3179,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2546-4c323-S",
@@ -3029,7 +3194,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5275-25713-S",
@@ -3044,7 +3209,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5036-43ad6-S",
@@ -3059,7 +3224,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5548-350cb-S",
@@ -3074,7 +3239,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-2045-0fde9-S",
@@ -3089,7 +3254,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5602-f63b5-S",
@@ -3104,7 +3269,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5321-0e492-S",
@@ -3119,7 +3284,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5119-4a997-S",
@@ -3134,7 +3299,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6292-073cd-S",
@@ -3149,7 +3314,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5157-550b5-S",
@@ -3164,7 +3329,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-5426-93477-S",
@@ -3179,7 +3344,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6255-bded8-S",
@@ -3194,7 +3359,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-18279-6-6249-d1c71-S",
@@ -3209,7 +3374,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003765663-S",
@@ -3284,7 +3449,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-13466-00022c22643001-S",
@@ -3299,7 +3464,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-19220-e629ed77bc7beb8e-S",
@@ -3314,7 +3479,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-19220-80d7e30a79675a1f-S",
@@ -3329,7 +3494,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10000-1207963748-S",
@@ -3344,7 +3509,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10001-1003528482-S",
@@ -3359,7 +3524,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-12811-2343532-S",
@@ -3389,7 +3554,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-10000-1207949767-S",
@@ -3419,7 +3584,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "ba-19220-1522ce9efabddf34-S",
@@ -3434,7 +3599,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-08T12:23:57Z"
+   "last_seen": "2026-10-08T22:36:38Z"
   },
   {
    "id": "an-remote-ai-developer-nurnberg-350342",
