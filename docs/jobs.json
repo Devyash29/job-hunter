@@ -1,9 +1,39 @@
 {
- "updated": "2026-10-22T20:56:44Z",
+ "updated": "2026-10-23T02:21:37Z",
  "jobs": [
   {
+   "id": "an-remote-community-lead-multiple-langs-491904",
+   "title": "Community Lead | Multiple Langs",
+   "company": "LILT (Production)",
+   "location": "Remote (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-community-lead-multiple-langs-491904",
+   "source": "Arbeitnow",
+   "posted": "2026-10-22",
+   "text": " ABOUT THE OPPORTUNITY  LILT is building speech and language datasets for AI in five languages: Balochi, Guarani, Luxembourgish, Turkmen and Uyghur. We are looking for Community Leads who are active in these language communities to help connect speakers with paid recording and transcription work.  A",
+   "kind": "other",
+   "score": 1,
+   "lang": "unknown",
+   "first_seen": "2026-10-23T02:21:37Z",
+   "last_seen": "2026-10-23T02:21:37Z"
+  },
+  {
+   "id": "an-remote-ai-solution-architect-nurnberg-mittelfranken-255821",
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "location": "Homeoffice (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-255821",
+   "source": "Arbeitnow",
+   "posted": "2026-10-22",
+   "text": " Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und E",
+   "kind": "other",
+   "score": 1,
+   "lang": "de-required",
+   "first_seen": "2026-10-23T02:21:37Z",
+   "last_seen": "2026-10-23T02:21:37Z"
+  },
+  {
    "id": "an-head-of-marketing-b2b-food-ingredients-distribution-london-481941",
-   "title": "Head of Marketing B2B Food Ingredients Distribution",
+   "title": "Head of Marketing B2B Food Ingredients Distribution m/f/d",
    "company": "GFIC",
    "location": "London (remote)",
    "url": "https://www.arbeitnow.co.uk/jobs/companies/gfic/head-of-marketing-b2b-food-ingredients-distribution-london-481941",
@@ -14,7 +44,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-22T20:56:44Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-praktikum-influencer-performance-marketing-manager-berlin-54224",
@@ -29,7 +59,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-22T20:56:44Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-principal-engineer-software-engineering-devops-62745",
@@ -44,7 +74,7 @@
    "score": 2,
    "lang": "en",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-netzwerkadministrator-gn-berlin-179702",
@@ -59,7 +89,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-werkstudent-sales-business-development-berlin-17919",
@@ -74,7 +104,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-it-engineer-192457",
@@ -89,7 +119,7 @@
    "score": 1,
    "lang": "en",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-it-vertragsmanagerin-zurich-363153",
@@ -104,7 +134,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-data-engineer-randstad-barendrecht-148360",
@@ -119,7 +149,7 @@
    "score": 1,
    "lang": "en",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1208386349-S",
@@ -134,7 +164,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-14922-21139433-S",
@@ -149,7 +179,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-content-creatorin-social-media-mitarbeiterin-werkstudent-berlin-261838",
@@ -164,7 +194,7 @@
    "score": 0,
    "lang": "de-required",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-content-creatorin-social-media-mitarbeiterin-minijob-berlin-5559",
@@ -179,7 +209,7 @@
    "score": 0,
    "lang": "de-required",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-43421",
@@ -194,7 +224,7 @@
    "score": 0,
    "lang": "de-required",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-werkstudent-in-wirtschaftsinformatik-remote-frankfurt-am-main-246432",
@@ -209,7 +239,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-texter-redakteur-fur-produktflyer-remote-minijob-ca-20-std-monat-wutoschingen-260770",
@@ -224,7 +254,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-business-consultant-it-business-analyst-banking-insurance-berlin-352096",
@@ -239,7 +269,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T10:47:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-meldewesenspezialistin-it-business-analyst-berlin-186616",
@@ -254,7 +284,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T10:47:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-java-entwicklerin-java-developer-backend-berlin-196646",
@@ -269,7 +299,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T10:47:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-it-business-analyst-berlin-114521",
@@ -284,7 +314,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-22T10:47:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
@@ -299,7 +329,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-22T10:47:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-head-of-performance-marketing-meta-ads-porta-westfalica-303949",
@@ -329,7 +359,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-22T10:47:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-technical-outsource-manager-munich-193500",
@@ -374,7 +404,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T02:15:42Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-copywriter-direct-response-100-remote-berlin-444204",
@@ -434,7 +464,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-21T20:58:42Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-137-5602-71517-S",
@@ -449,7 +479,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T20:58:42Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-saas-software-sales-manager-region-sud-full-remote-berlin-273863",
@@ -494,7 +524,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T16:14:27Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-272410211026-S",
@@ -509,7 +539,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-21T16:14:27Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-137-2045-47e02-S",
@@ -524,7 +554,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T16:14:27Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-werkstudent-customer-success-support-berlin-240190",
@@ -614,7 +644,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-651d318bf3b26884-S",
@@ -629,7 +659,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-f386226d28c2f313-S",
@@ -644,7 +674,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-b63e33fd997dbdda-S",
@@ -659,7 +689,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-supportmitarbeiter-100-remote-handwerkersoftware-garrel-432156",
@@ -764,7 +794,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T15:57:46Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13640-JOB-867240-S",
@@ -779,7 +809,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-20T15:57:46Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1208356964-S",
@@ -794,7 +824,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T15:57:46Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-15537-JOB-867098-S",
@@ -824,7 +854,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T10:33:31Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-a09fc39b7a203e4a-S",
@@ -839,7 +869,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T10:33:31Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003880757-S",
@@ -899,7 +929,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T21:49:03Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-ai-tech-lead-remote-based-in-europe-berlin-165178",
@@ -959,7 +989,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-272288191026-S",
@@ -974,7 +1004,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-272264191026-S",
@@ -989,7 +1019,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-272056191026-S",
@@ -1004,7 +1034,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-6-3124-648b7-S",
@@ -1019,7 +1049,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-6-3142-aee08-S",
@@ -1034,7 +1064,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-137-3124-17f31-S",
@@ -1049,7 +1079,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-137-3142-121f5-S",
@@ -1064,7 +1094,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18024-1008y000bCF00-S",
@@ -1109,7 +1139,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13466-00022c22857001-S",
@@ -1124,7 +1154,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-ecm-dms-sales-manager-region-sud-full-remote-berlin-168455",
@@ -1214,7 +1244,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1208329018-S",
@@ -1229,7 +1259,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12608-1461421-10438-1-S",
@@ -1244,7 +1274,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1208329059-S",
@@ -1259,7 +1289,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1208329064-S",
@@ -1754,7 +1784,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003866583-S",
@@ -1769,7 +1799,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-15537-JOB-864714-S",
@@ -1784,7 +1814,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12608-1461091-82825-1-S",
@@ -1814,7 +1844,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003473317-S",
@@ -1829,7 +1859,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-forward-deployed-ai-engineer-berlin-74468",
@@ -2009,7 +2039,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-15T15:54:00Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-270054151026-S",
@@ -2114,7 +2144,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-15T10:29:50Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003861964-S",
@@ -2129,7 +2159,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-15T10:29:50Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-product-owner-festanstellung-oder-freelance-munchen-remote-munich-113946",
@@ -2234,7 +2264,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-14T16:06:01Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-werkstudent-marketplace-manager-100-remote-teilzeit-20-std-woche-aachen-179592",
@@ -2624,7 +2654,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-13T22:03:04Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-werkstudent-in-sustainability-supply-chain-administration-wurzburg-434799",
@@ -2654,7 +2684,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-people-operations-specialist-fur-den-klimaschutz-gesucht-freiburg-im-breisgau-303454",
@@ -2774,7 +2804,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003845305-S",
@@ -2789,7 +2819,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003845324-S",
@@ -2804,7 +2834,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1208273952-S",
@@ -2909,7 +2939,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-12T23:54:38Z",
-   "last_seen": "2026-10-19T17:53:36Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-ai-platform-engineer-nuremberg-9647",
@@ -3014,7 +3044,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-12T13:46:28Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-20403-206272802-S",
@@ -3029,7 +3059,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-12T13:46:28Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-rox-student-talent-pool-werkstudent-in-oder-praktikant-in-fur-digital-health-projekt-remote-berlin-231630",
@@ -3359,7 +3389,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-10T03:07:29Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-value-strategist-347405",
@@ -3389,7 +3419,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-09T21:57:58Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-ma-manager-berlin-141709",
@@ -3584,7 +3614,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-09T12:13:22Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-video-content-creator-mit-hund-mini-job-von-zu-hause-koln-431467",
@@ -3719,7 +3749,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T22:36:38Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1001382921-S",
@@ -3734,7 +3764,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T22:36:38Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003828934-S",
@@ -3869,7 +3899,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12608-1458528-10417-1-S",
@@ -3884,7 +3914,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-14340-488871767-S",
@@ -3899,7 +3929,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-werkstudentin-operational-excellence-berlin-478364",
@@ -4064,7 +4094,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13103-26391_JB5267159-S",
@@ -4079,7 +4109,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13103-26390_JB5267158-S",
@@ -4094,7 +4124,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13103-26388_JB5267156-S",
@@ -4334,7 +4364,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T12:13:25Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-initiativbewerbung-berlin-11744",
@@ -4484,7 +4514,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-06T21:58:14Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-14087-5HE9NR57UW7CAS2Y-S",
@@ -4829,7 +4859,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003793334-S",
@@ -4859,7 +4889,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-20263-2350373-S",
@@ -4994,7 +5024,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-04T03:13:27Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "an-remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
@@ -5504,7 +5534,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1207206512-S",
@@ -5549,7 +5579,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13947-00009d18a4a001-S",
@@ -5624,7 +5654,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12280-2026-79241-0-S",
@@ -5669,7 +5699,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12608-1455468-8199-1-S",
@@ -5684,7 +5714,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-268562021026-S",
@@ -5714,7 +5744,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12787-270966011026-S",
@@ -5849,7 +5879,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-21175-55YYIR11ZCBL6RJE-S",
@@ -6179,7 +6209,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-ddceb7cff1d70db3-S",
@@ -6209,7 +6239,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-13640-JOB-847081-S",
@@ -6254,7 +6284,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-15939-BB-635352-7878-8842-S",
@@ -6284,7 +6314,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-15537-JOB-684161-S",
@@ -6299,7 +6329,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-15537-JOB-684160-S",
@@ -6314,7 +6344,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-15537-JOB-849085-S",
@@ -6344,7 +6374,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12518-PCDOCU-0EJ-S",
@@ -6359,7 +6389,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12811-2348290-S",
@@ -6389,7 +6419,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003776124-S",
@@ -6404,7 +6434,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003745304-S",
@@ -6494,7 +6524,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003668676-S",
@@ -6524,7 +6554,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003689130-S",
@@ -6584,7 +6614,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-6-5066-a361b-S",
@@ -6629,7 +6659,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-20713-44467420-925-S",
@@ -6674,7 +6704,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-6-2018-f21ae-S",
@@ -6704,7 +6734,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-12412-1e87d0af_JB4722879-S",
@@ -6719,7 +6749,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10001-1003064344-S",
@@ -6734,7 +6764,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-18279-6-5343-07358-S",
@@ -7079,7 +7109,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-e629ed77bc7beb8e-S",
@@ -7169,7 +7199,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-10000-1207949767-S",
@@ -7199,7 +7229,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-22T20:56:44Z"
+   "last_seen": "2026-10-23T02:21:37Z"
   },
   {
    "id": "ba-19220-1522ce9efabddf34-S",
