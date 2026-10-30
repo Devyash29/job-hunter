@@ -1,6 +1,366 @@
 {
- "updated": "2026-10-29T22:09:23Z",
+ "updated": "2026-10-30T03:19:08Z",
  "jobs": [
+  {
+   "id": "an-remote-sales-engineer-emea-473220",
+   "title": "Sales Engineer (EMEA)",
+   "company": "Constructor",
+   "location": "Remote (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sales-engineer-emea-473220",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "  About Us    Constructor.io  powers product search and discovery for some of the largest retailers in the world. We serve billions of requests every week, and you've probably seen our results somewhere and used our product without knowing it. We differentiate ourselves by focusing on metrics over f",
+   "kind": "other",
+   "score": 2,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-devops-engineer-100-remote-united-kindom-394367",
+   "title": "DevOps Engineer (100% remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-394367",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "    Join Tether and Shape the Future of Digital Finance      At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tok",
+   "kind": "other",
+   "score": 2,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+   "title": "SQL Developer – AI Prompting & Context Engineering",
+   "company": "Bromcom Computers Plc",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": " This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining practical AI skills with strong SQL exper",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
+   "title": "Research Engineer Intern (Multimodal LLM)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "internship",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-head-of-regulatory-affairs-ai-and-p2p-100-remote-london-470490",
+   "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/head-of-regulatory-affairs-ai-and-p2p-100-remote-london-470490",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "    Join Tether and Shape the Future of Digital Finance      At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tok",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-ai-research-engineer-agentic-post-training-100-remote-worldwide-united-kindom-125784",
+   "title": "AI Research Engineer (Agentic Post-training) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-agentic-post-training-100-remote-worldwide-united-kindom-125784",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide-united-kindom-310270",
+   "title": "AI Research Engineer (Multi-Modal Reinforcement Learning) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide-united-kindom-310270",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-ai-research-engineer-multi-modal-vision-100-remote-worldwide-united-kindom-190704",
+   "title": "AI Research Engineer (Multi-Modal & Vision) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-multi-modal-vision-100-remote-worldwide-united-kindom-190704",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
+   "title": "AI Research Engineer (Model Compression & Quantization)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-ai-research-engineer-model-compression-quantization-london-40920",
+   "title": "AI Research Engineer (Model Compression & Quantization)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-london-40920",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-ai-research-engineer-model-compression-quantization-100-remote-worldwide-united-kindom-226794",
+   "title": "AI Research Engineer (Model Compression & Quantization) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-model-compression-quantization-100-remote-worldwide-united-kindom-226794",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-ai-research-engineer-pre-training-llm-multi-modal-united-kindom-48620",
+   "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-pre-training-llm-multi-modal-united-kindom-48620",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-ai-research-engineer-pre-training-llm-multi-modal-london-230689",
+   "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-pre-training-llm-multi-modal-london-230689",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-ai-research-engineer-multi-modal-vision-london-236862",
+   "title": "AI Research Engineer (Multi-Modal & Vision)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-vision-london-236862",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-engagement-manager-ai-implementations-london-439998",
+   "title": "Engagement Manager, AI Implementations",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-engagement-manager-ai-implementations-london-439998",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "unknown",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-353480",
+   "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-353480",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-remote-head-of-ai-expansion-london-454539",
+   "title": "Head of AI Expansion",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-head-of-ai-expansion-london-454539",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "unknown",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-product-manager-on-ramp-swap-100-remote-united-kindom-322838",
+   "title": "Product Manager On-Ramp & Swap (100% remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/product-manager-on-ramp-swap-100-remote-united-kindom-322838",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "    Join Tether and Shape the Future of Digital Finance      At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tok",
+   "kind": "other",
+   "score": 1,
+   "lang": "unknown",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-ai-technical-product-manager-qvac-100-remote-london-29643",
+   "title": "AI Technical Product Manager (QVAC) (100% remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-technical-product-manager-qvac-100-remote-london-29643",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "    Join Tether and Shape the Future of Digital Finance      At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tok",
+   "kind": "other",
+   "score": 1,
+   "lang": "unknown",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-product-engineering-lead-qvac-100-remote-london-396140",
+   "title": "Product Engineering Lead (QVAC) (100% remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/product-engineering-lead-qvac-100-remote-london-396140",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "    Join Tether and Shape the Future of Digital Finance      At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tok",
+   "kind": "other",
+   "score": 1,
+   "lang": "unknown",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-mobile-engineer-react-native-100-remote-worldwide-united-kindom-118208",
+   "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-118208",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-fullstack-engineer-agenticops-100-remote-united-kindom-137115",
+   "title": "Fullstack Engineer - AgenticOps (100% Remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote job (remote)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-137115",
+   "source": "Arbeitnow",
+   "posted": "2026-10-30",
+   "text": "   Join Tether and Shape the Future of Digital Finance    At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens",
+   "kind": "other",
+   "score": 1,
+   "lang": "en",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "ba-10001-1003936487-S",
+   "title": "Reinigungskraft (m/w/d) - Teilzeit /Minijob - Gebäudereinigung",
+   "company": "Nobelis Gebäudemanagement & Dienstleistungen",
+   "location": "34369, Hofgeismar",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003936487-S",
+   "source": "Bundesagentur",
+   "posted": "2026-10-29",
+   "text": "Helfer/in - Reinigung",
+   "kind": "minijob",
+   "score": 0,
+   "lang": "de",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
+  {
+   "id": "an-werkstudent-marketing-remote-118440",
+   "title": "Werkstudent Marketing (m/w/d)  · Remote",
+   "company": "Evolve Digital GmbH",
+   "location": "Homeoffice (remote)",
+   "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
+   "source": "Arbeitnow",
+   "posted": "2026-10-29",
+   "text": "      Du studierst Marketing oder etwas Ähnliches, hast schon erste Social-Media-Erfahrung und behältst auch bei vielen Themen gleichzeitig den Überblick?    Bei uns übernimmst du Verantwortung für unsere LinkedIn- und Instagram-Auftritte und hältst bei Content- und Leadmagnet-Projekten die Fäden zu",
+   "kind": "werkstudent",
+   "score": 0,
+   "lang": "unknown",
+   "first_seen": "2026-10-30T03:19:08Z",
+   "last_seen": "2026-10-30T03:19:08Z"
+  },
   {
    "id": "an-copywriter-ads-webinare-hockenheim-25490",
    "title": "Copywriter (m/w/d) – Ads & Webinare",
@@ -14,7 +374,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-29T17:43:16Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-product-manager-ux-ui-ai-berlin-468014",
@@ -29,7 +389,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-29T17:43:16Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-272752291026-S",
@@ -44,7 +404,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-29T17:43:16Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003933608-S",
@@ -59,7 +419,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-29T17:43:16Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12811-2366535-S",
@@ -74,7 +434,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-29T17:43:16Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003934496-S",
@@ -89,7 +449,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-29T17:43:16Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003931765-S",
@@ -104,7 +464,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-29T11:54:41Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18024-1002X000RE206-S",
@@ -119,7 +479,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-29T11:54:41Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003918335-S",
@@ -134,7 +494,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-29T11:54:41Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003931092-S",
@@ -149,7 +509,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-29T11:54:41Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-werkstudent-backoffice-operations-deutschlandweit-im-homeoffice-berlin-477225",
@@ -164,7 +524,7 @@
    "score": 0,
    "lang": "de-required",
    "first_seen": "2026-10-29T11:54:41Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-ccrm-retention-manager-bilingue-francais-anglais-100-remote-paris-182110",
@@ -179,7 +539,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-28T21:58:15Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-137491",
@@ -269,7 +629,7 @@
    "score": 1,
    "lang": "de-required",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-germany-working-student-in-consulting-climate-risk-and-decarbonisation-frankfurt-486948",
@@ -299,7 +659,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-818397-S",
@@ -314,7 +674,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003928522-S",
@@ -329,7 +689,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-21175-RP8MCL0BTAXB9G4S-S",
@@ -344,7 +704,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-21175-A6XXV0N41GK5G5DQ-S",
@@ -359,7 +719,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-21175-DZKSAEOVAW23JP47-S",
@@ -374,7 +734,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T17:33:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-17710-0068380012-S",
@@ -464,7 +824,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-28T11:46:26Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-13640-JOB-868538-S",
@@ -479,7 +839,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-28T11:46:26Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-13465-00021a6979c001-S",
@@ -644,7 +1004,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-27T16:58:24Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-13103-26514_JB5283872-S",
@@ -659,7 +1019,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T16:58:24Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-pflichtpraktikum-ubersetzung-sprachprufung-chinesisch-hindi-spanisch-oder-russisch-kitzingen-482760",
@@ -854,7 +1214,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003915542-S",
@@ -869,7 +1229,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003917637-S",
@@ -929,7 +1289,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12951-1a3e0b3b-51b7-4727--S",
@@ -944,7 +1304,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003917072-S",
@@ -959,7 +1319,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003918475-S",
@@ -974,7 +1334,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-e2e02a2f949a4272-S",
@@ -989,7 +1349,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-d1f51043925595ac-S",
@@ -1004,7 +1364,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-27T11:12:37Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-354809",
@@ -1094,7 +1454,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-26T17:48:20Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-272732261026-S",
@@ -1124,7 +1484,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-26T17:48:20Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-272453261026-S",
@@ -1139,7 +1499,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-26T17:48:20Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-272752261026-S",
@@ -1214,7 +1574,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-26T11:45:57Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18024-1002X000RE203-S",
@@ -1244,7 +1604,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-26T02:07:01Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-devops-engineer-242127",
@@ -1559,7 +1919,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T16:02:53Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003907020-S",
@@ -1574,7 +1934,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T16:02:53Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003906984-S",
@@ -1589,7 +1949,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T16:02:53Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10000-1208401969-S",
@@ -1619,7 +1979,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T16:02:53Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18024-1002X000RE200-S",
@@ -1649,7 +2009,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T16:02:53Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-hr-recruiter-intern-unpaid-part-time-mandatory-internship-at-early-stage-startup-berlin-277434",
@@ -1739,7 +2099,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T10:38:54Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-2df17afb29d194f6-S",
@@ -1754,7 +2114,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T10:38:54Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-231b3c66c41d24c5-S",
@@ -1769,7 +2129,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-23T10:38:54Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-97832",
@@ -1949,7 +2309,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-14922-21139433-S",
@@ -1964,7 +2324,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T16:13:00Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-content-creatorin-social-media-mitarbeiterin-werkstudent-berlin-261838",
@@ -2189,7 +2549,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-22T02:15:42Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-copywriter-direct-response-100-remote-berlin-444204",
@@ -2264,7 +2624,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T20:58:42Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-saas-software-sales-manager-region-sud-full-remote-berlin-273863",
@@ -2309,7 +2669,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T16:14:27Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-272410211026-S",
@@ -2324,7 +2684,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-21T16:14:27Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18279-137-2045-47e02-S",
@@ -2339,7 +2699,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T16:14:27Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-werkstudent-customer-success-support-berlin-240190",
@@ -2429,7 +2789,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-651d318bf3b26884-S",
@@ -2444,7 +2804,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-f386226d28c2f313-S",
@@ -2459,7 +2819,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-b63e33fd997dbdda-S",
@@ -2474,7 +2834,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-21T10:45:52Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-supportmitarbeiter-100-remote-handwerkersoftware-garrel-432156",
@@ -2579,7 +2939,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T15:57:46Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-13640-JOB-867240-S",
@@ -2609,7 +2969,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T15:57:46Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-867098-S",
@@ -2654,7 +3014,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-20T10:33:31Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003880757-S",
@@ -2714,7 +3074,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T21:49:03Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-ai-tech-lead-remote-based-in-europe-berlin-165178",
@@ -2834,7 +3194,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18279-6-3142-aee08-S",
@@ -2849,7 +3209,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18279-137-3124-17f31-S",
@@ -2864,7 +3224,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18279-137-3142-121f5-S",
@@ -2879,7 +3239,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T17:53:36Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18024-1008y000bCF00-S",
@@ -3029,7 +3389,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10000-1208329018-S",
@@ -3044,7 +3404,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12608-1461421-10438-1-S",
@@ -3059,7 +3419,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-19T11:27:26Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10000-1208329059-S",
@@ -3569,7 +3929,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003866583-S",
@@ -3584,7 +3944,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-864714-S",
@@ -3599,7 +3959,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12608-1461091-82825-1-S",
@@ -3629,7 +3989,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003473317-S",
@@ -3644,7 +4004,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-16T10:17:01Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-forward-deployed-ai-engineer-berlin-74468",
@@ -3824,7 +4184,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-15T15:54:00Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-270054151026-S",
@@ -3929,7 +4289,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-15T10:29:50Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003861964-S",
@@ -3944,7 +4304,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-15T10:29:50Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-product-owner-festanstellung-oder-freelance-munchen-remote-munich-113946",
@@ -4439,7 +4799,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-13T22:03:04Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-werkstudent-in-sustainability-supply-chain-administration-wurzburg-434799",
@@ -4469,7 +4829,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-people-operations-specialist-fur-den-klimaschutz-gesucht-freiburg-im-breisgau-303454",
@@ -4589,7 +4949,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003845305-S",
@@ -4604,7 +4964,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003845324-S",
@@ -4619,7 +4979,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-13T13:05:31Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10000-1208273952-S",
@@ -4829,7 +5189,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-12T13:46:28Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-20403-206272802-S",
@@ -4844,7 +5204,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-12T13:46:28Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-rox-student-talent-pool-werkstudent-in-oder-praktikant-in-fur-digital-health-projekt-remote-berlin-231630",
@@ -5174,7 +5534,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-10T03:07:29Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-value-strategist-347405",
@@ -5204,7 +5564,7 @@
    "score": 1,
    "lang": "unknown",
    "first_seen": "2026-10-09T21:57:58Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-ma-manager-berlin-141709",
@@ -5399,7 +5759,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-09T12:13:22Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-video-content-creator-mit-hund-mini-job-von-zu-hause-koln-431467",
@@ -5534,7 +5894,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T22:36:38Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1001382921-S",
@@ -5549,7 +5909,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T22:36:38Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003828934-S",
@@ -5684,7 +6044,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12608-1458528-10417-1-S",
@@ -5699,7 +6059,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-14340-488871767-S",
@@ -5714,7 +6074,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-08T12:23:57Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-werkstudentin-operational-excellence-berlin-478364",
@@ -5879,7 +6239,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T22:23:19Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-13103-26391_JB5267159-S",
@@ -6149,7 +6509,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-07T12:13:25Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-initiativbewerbung-berlin-11744",
@@ -6299,7 +6659,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-06T21:58:14Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-14087-5HE9NR57UW7CAS2Y-S",
@@ -6644,7 +7004,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003793334-S",
@@ -6674,7 +7034,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-05T12:54:25Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-20263-2350373-S",
@@ -6809,7 +7169,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-04T03:13:27Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "an-remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
@@ -7319,7 +7679,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10000-1207206512-S",
@@ -7334,7 +7694,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-856814-S",
@@ -7484,7 +7844,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12608-1455468-8199-1-S",
@@ -7529,7 +7889,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:33:12Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12787-270966011026-S",
@@ -8099,7 +8459,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-684161-S",
@@ -8114,7 +8474,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-684160-S",
@@ -8129,7 +8489,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-15537-JOB-849085-S",
@@ -8159,7 +8519,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12518-PCDOCU-0EJ-S",
@@ -8174,7 +8534,7 @@
    "score": 0,
    "lang": "en",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-12811-2348290-S",
@@ -8339,7 +8699,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003689130-S",
@@ -8399,7 +8759,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18279-6-5066-a361b-S",
@@ -8534,7 +8894,7 @@
    "score": 0,
    "lang": "unknown",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10001-1003064344-S",
@@ -8549,7 +8909,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-18279-6-5343-07358-S",
@@ -8984,7 +9344,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-10000-1207949767-S",
@@ -9014,7 +9374,7 @@
    "score": 0,
    "lang": "de",
    "first_seen": "2026-10-03T09:22:35Z",
-   "last_seen": "2026-10-29T22:09:23Z"
+   "last_seen": "2026-10-30T03:19:08Z"
   },
   {
    "id": "ba-19220-1522ce9efabddf34-S",
